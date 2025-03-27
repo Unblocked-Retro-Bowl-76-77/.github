@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1><a href="https://lesson3.guru">CLICK TO PLAY GAME</h1>
+<h1><a href="https://retro-bowl-2.pages.dev">CLICK TO PLAY GAME</h1>
 <HR>---
 <H1><a href="https://lessons1.guru">CLICK 2 PLAY UNB GAMES</a></H1>
 <HR>---
